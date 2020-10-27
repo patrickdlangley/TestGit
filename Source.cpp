@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 
-	cout << "\nHello Git!";
+	cout << "\nHello GitHub!";
 
 	cout << endl << endl;
 	system("pause");
